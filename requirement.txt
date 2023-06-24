@@ -17,3 +17,4 @@ category-encoders>=2.6.0
 pdpbox>=0.2.1
 setuptools>=67.7.2
 category_encoders>=2.6.0
+datatable>=1.0.0
